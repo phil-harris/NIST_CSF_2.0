@@ -1,5 +1,5 @@
 # GRC Learning Roadmap & Applied Portfolio
-**Target Framework:** NIST CSF 2.0 | **Focus:** Technical Control Auditing, Container Security, Policy & Risk Management
+**Target Framework:** NIST CSF 2.0 
 
 ---
 
@@ -50,6 +50,9 @@ Welcome to my GRC portfolio and learning repository. The objective of this repos
 * **OS / Infrastructure:** Linux VM
 * **Containerization:** Docker Engine / Docker Compose
 * **Frameworks & Standards:** NIST CSF 2.0, CIS Benchmarks
+
+<br>
+
 ### Additional Resources
 [NIST Cybersecurity Framework (CSF) 2.0 Reference Tool](https://docs.google.com/spreadsheets/d/1Mlq27SxMdJ_S240yLUmBBcCFkVLOi_UB/edit?usp=sharing&ouid=112846220479532615624&rtpof=true&sd=true)
 

@@ -1,8 +1,6 @@
 # NIST_CSF_2.0
 ### NIST Cybersecurity Framework 2.0 (Learning and Development)
 
-<br>
-
 [The NIST Cybersecurity Framework (CSF) 2.0](https://drive.google.com/file/d/1AZAATID1sT50CT0_Qtit3FQ0Bi4WVv_5/view?usp=drive_link)
 
 ### Additional Resources

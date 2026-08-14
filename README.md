@@ -64,3 +64,7 @@ Welcome to my GRC portfolio and learning repository. The objective of this repos
 <br>
 
 [NIST Cybersecurity Framework (CSF) 2.0 Reference Tool](https://docs.google.com/spreadsheets/d/1Mlq27SxMdJ_S240yLUmBBcCFkVLOi_UB/edit?usp=sharing&ouid=112846220479532615624&rtpof=true&sd=true)
+
+[CIS Debian Benchmarks](https://drive.google.com/file/d/1oYBh-ER2S3o4y9zlXhmDdePv8WFZP7B6/view?usp=drive_link)
+
+[CIS Docker Benchmarks](https://drive.google.com/file/d/1_V4imLLW7uoVrm1Mwomg9WcMof4PmuUC/view?usp=drive_link)

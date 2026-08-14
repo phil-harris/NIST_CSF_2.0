@@ -34,7 +34,7 @@ Welcome to my GRC portfolio and learning repository. The objective of this repos
 
 ### 2. Applied Hands-on Labs (`/02-applied-labs`)
 *Hands-on GRC projects demonstrating control auditing and evidence collection.*
-* **[Lab 01: Hardened Docker Environment Audit](./02-applied-labs/lab-01-docker-vm-audit/)**
+* **[Lab 01: Docker Environment Audit](./02-applied-labs/lab-01-docker-vm-audit/)**
   * **Scope:** Linux VM hosting a Docker container engine.
   * **Framework Mapping:** NIST CSF 2.0 (PR.AA Access Control, PR.DS Data Security, DE.CM Continuous Monitoring).
   * **Key Artifacts:** Audit checklists, hardened `docker-compose.yml`, log evidence, gap report.
